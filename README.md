@@ -8,9 +8,11 @@ Pregunta 1: Comparacion del makespan conseguido entre el algoritmo evolutivo y r
 Makespan: 808
 
 Schedule:
+
 ![alt text](https://raw.githubusercontent.com/SebsPER/PC2-AdvancedAI/main/pictures/evo.jpg)
 
 Progress (Makespan vs Iterations):
+
 ![alt text](https://raw.githubusercontent.com/SebsPER/PC2-AdvancedAI/main/pictures/evoProgress.jpg)
 
 - Random Hill Climbing nswap 
@@ -18,7 +20,9 @@ Progress (Makespan vs Iterations):
 Makespan: 737
 
 Schedule:
+
 ![alt text](https://raw.githubusercontent.com/SebsPER/PC2-AdvancedAI/main/pictures/hill.jpg)
 
 Progress (Makespan vs Iterations):
+
 ![alt text](https://raw.githubusercontent.com/SebsPER/PC2-AdvancedAI/main/pictures/hillProgress.jpg)
