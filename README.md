@@ -3,7 +3,7 @@ PC2 del curso de advanced artificial inteligence (2022-02)
 
 ## Pregunta 1: Comparacion del makespan conseguido entre el algoritmo evolutivo y random hill climbing nswap en 9 minutos (Instancia ab7)
 
-### Algoritmo evolutivo
+### Algoritmo Evolutivo
 
 Makespan: 808
 
@@ -15,7 +15,7 @@ Progress (Makespan vs Iterations):
 
 ![alt text](https://raw.githubusercontent.com/SebsPER/PC2-AdvancedAI/main/pictures/evoProgress.jpg)
 
-### Random Hill Climbing nswap 
+### Random Restart Hill Climbing Nswap 
 
 Makespan: 737
 
